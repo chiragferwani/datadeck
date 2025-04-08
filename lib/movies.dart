@@ -18,7 +18,7 @@ class _MoviesScreenState extends State<MoviesScreen> {
   bool isLoading = false;
 
   final String apiKey =
-      '729f192f1d56cedf1316c79703af97b6'; // Replace with your TMDB API key
+      'YOUR_API_KEY'; // Replace with your TMDB API key
 
   @override
   void initState() {
