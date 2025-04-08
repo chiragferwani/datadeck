@@ -4,6 +4,10 @@ A multi-functional Flutter application that brings together real-time informatio
 
 ---
 
+https://github.com/user-attachments/assets/8720907a-5232-4dea-9632-48f5046dbbe8
+
+---
+
 ## ✨ Features
 
 - 📰 **Wikipedia Integration**: Fetches and displays summarized articles from Wikipedia with images.
