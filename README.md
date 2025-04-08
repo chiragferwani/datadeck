@@ -1,4 +1,4 @@
-# 📱 DataDeck App
+# 📱 DataDesk App
 
 A multi-functional Flutter application that brings together real-time information, entertainment, and personalization in one seamless experience.
 
